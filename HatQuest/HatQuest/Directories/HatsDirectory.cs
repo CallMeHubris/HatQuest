@@ -14,7 +14,7 @@ using HatQuest.Abilities;
 namespace HatQuest.Init
 {
     /// <summary>
-    /// Elijah
+    /// Elijah Hughes
     /// </summary>
     static class HatsDirectory
     {
